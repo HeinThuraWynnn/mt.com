@@ -19,7 +19,7 @@
             </div>
         </div>
         <div class="form-group arlo_tm_button">
-        <a class="btn btn-success" id="send_message" onclick="document.getElementById('form-id').submit();"> <span>Login</span></a>
+        <a class="btn btn-primary" id="send_message" onclick="document.getElementById('form-id').submit();"> <span>Login</span></a>
         </div>
         </form>
         </div>

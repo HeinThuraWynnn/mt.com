@@ -64,13 +64,13 @@
             <div class="row">
                     <div class="leftbox col-md-6">
                         <div class="arlo_tm_mini_title_holder contact">
-                            <h4>Get in Touch</h4>
+                            <h4 class="my-3">Get in Touch</h4>
                         </div>
                         <div class="short_info_wrap">
-                            <ul>
-                                <li><p><label>Address:</label><span>1474/A, MinYeKyawSwar 7st, 71 Ward, South Dagon Tsp, Yangon, Myanmar</span></p></li>
-                                <li><p><label>Email:</label><span><a href="mailto:thomazwynn@gmail.com">thomazwynn@gmail.com</a></span></p></li>
-                                <li><p><label>Phone:</label><span><a href="tel:+959455200730">+ 95 945 520 0730</a></span></p></li>
+                            <ul> 
+                                <li><p><label>Address:</label><span>No.84,Thein Phyu Road,Mingalar Taung Nyunt Tsp, Yangon, Myanmar</span></p></li>
+                                <li><p><label>Email:</label><span><a href="mailto:thomazwynn@gmail.com">safetransfer12@gmail.com</a></span></p></li>
+                                <li><p><label>Phone:</label><span><a href="tel:+959455200730">09-969118127,09692875517</a></span></p></li>
                                 <li><p><label>Website:</label><span><a href="https://www.wynnsolutionsmyanmar.com">www.wynnsolutionsmyanmar.com</a></span></p></li>
                             </ul>
                         </div>
@@ -78,7 +78,8 @@
                     <div class="rightbox col-md-6">
                         <div class="arlo_tm_contact_wrap">
                             <div class="main_input_wrap">
-                               
+                            <h4 class="my-3 text-center">Contact Form</h4>
+
                                 <form method="POST" action="http://localhost:8000/contact-us" accept-charset="UTF-8" id="form-id"><input name="_token" type="hidden" value="YLVkE91fcaIdsM2IpOjWv2WViV3Reh9dDzy99prr">
                                 <div class="form-group wrap ">
                                 <input class="form-control" placeholder="Your Name" name="name" type="text">
