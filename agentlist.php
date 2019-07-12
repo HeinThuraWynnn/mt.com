@@ -1,4 +1,6 @@
-  <div class="section container mt5" id="agentlist">
+<?php include 'header.php';?>
+
+ <div class="section container mt5" id="agentlist">
             <div class="row">
                 <div class="col-12">
                     <h1 class="text-center my-5">Our Agent List</h1>
@@ -5834,3 +5836,5 @@
                 </div>
             </div>
         </div>
+</body>
+</html>

@@ -37,7 +37,31 @@
                 </div>                
                 </div>
             </div>
+            <div class="row mt-5">
+                <div class="card col-3">
+                    <div class="card-body m-3">
+                        <h2 class="text-center">Low Cost</h2>
+                    </div>
+                </div>
+                <div class="card col-3">
+                    <div class="card-body m-3">
+                        <h2 class="text-center">Fast</h2>
+                    </div>
+                </div>
+                <div class="card col-3">
+                    <div class="card-body m-3">
+                        <h2 class="text-center">Simple</h2>
+                    </div>
+                </div>
+                <div class="card col-3">
+                    <div class="card-body m-3">
+                        <h2 class="text-center">Trusted</h2>
+                    </div>
+                </div>
+
+            </div>
         </div>
+
         <hr>
         <div class="section container mt-5" id="feature">
             <div class="row">
@@ -45,10 +69,13 @@
                     <h1 class="text-center my-5">How its Work</h1>
                 </div>
                 <div class="col-lg-8 col-md-6">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
-                    <br>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
-
+                    <p>-When the sender gave necessary info to fill form in our agent's shop,the form data will directly send to the main server.</p>
+                    <p>-Main server send a one time password only to sender via gmail.</p>
+                    <p>-Receiver will also receive a notification mail with Transaction info.</p>
+                    <p>- Receiver need to go to our agent's shop,then gave agent's the info and password which is shared by sender.</p>
+                    <p>-Agent will fill the form then submit it to main server again.</p>
+                    <p>-Main server will match the both side data and if match,the transaction finish noti will be displayed.<p>
+                    <p>-Withdraw your cash and your transaction is finish.</p>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <img class="img-fluid" data-src="holder.js/800x400?auto=yes&amp;bg=777&amp;fg=555&amp;text=Money Transfer Secure" alt="Money Transfer Secure [800x400]" src="data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22800%22%20height%3D%22400%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20400%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_16bdee0a237%20text%20%7B%20fill%3A%23555%3Bfont-weight%3Anormal%3Bfont-family%3AHelvetica%2C%20monospace%3Bfont-size%3A40pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_16bdee0a237%22%3E%3Crect%20width%3D%22800%22%20height%3D%22400%22%20fill%3D%22%23777%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%22285.9140625%22%20y%3D%22218.0046875%22%3EFirst%20slide%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E" data-holder-rendered="true">
@@ -58,7 +85,7 @@
             </div>
         </div>
         <hr>
-        <?php include 'agentlist.php';?>
+       
         <div class="container section mt-5" id="contactus">
         <div class="container">
             <div class="row">

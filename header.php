@@ -20,16 +20,16 @@
   <div class="navbar-nav-scroll">
     <ul class="navbar-nav bd-navbar-nav flex-row">
       <li class="nav-item">
-        <a class="nav-link " href="/">Home</a>
+        <a class="nav-link " href="index.php#">Home</a>
       </li>
       <li class="nav-item">
         <a class="nav-link active" href="index.php#feature">How its Work</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link " href="index.php#agentlist">Agent Lists</a>
+        <a class="nav-link " href="agentlist.php">Agent Lists</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="index.php#"  >User Guide</a> 
+        <a class="nav-link" href=guide.php#"  >User Guide</a> 
       </li>
       <li class="nav-item">
         <a class="nav-link" href="index.php#contactus">Contact Us</a>
